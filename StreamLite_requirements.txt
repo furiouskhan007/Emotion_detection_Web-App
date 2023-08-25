@@ -1,0 +1,9 @@
+pip install streamlit-webrtc
+pip install streamlit
+pip install opencv-python
+pip install numpy
+streamlit run app.py
+#for image iapp
+streamlit run iapp.py
+
+https://github.com/Pawandeep-prog/webcam-streaming
