@@ -15,4 +15,4 @@ Web app for emotion detection image based and live
 # for image iapp
 - streamlit run iapp.py
 # Result
-![uploaded_image](https://github.com/furiouskhan007/Emotion_detection_Web-App/assets/135207625/022eba68-f0cd-4c75-ad7e-3f4c0e3fa7a4)
+![Emotion detection](https://github.com/furiouskhan007/Emotion_detection_Web-App/assets/135207625/f5e566c5-d917-4ab4-aca2-38254b4d3022)
