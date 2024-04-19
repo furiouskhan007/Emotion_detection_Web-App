@@ -1,3 +1,6 @@
+# Python Compatibility 
+* Python 3.10.4
+
 # Emotion_detection_Web-App
 Web app for emotion detection image based and live
 - Follow simple below installation
